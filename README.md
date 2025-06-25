@@ -2,7 +2,7 @@
 Perfil de Github en el que subo mis proyectos personales tanto de **Desarrollo Web** como de **Inteligencia Artificial y Big Data**.
 
 ### Proyectos IA y Big Data
-- [Recomendador de Películas]([http://www.limni.net](https://github.com/rub-laz/recomendador-peliculas)) 
+- [Recomendador de Películas](https://github.com/rub-laz/recomendador-peliculas)
 - Diagnóstico de Enfermedades (texto e imágenes)
 - Predicción Metereológica
 - Optimización de Rutas de Transporte
