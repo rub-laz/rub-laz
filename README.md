@@ -4,7 +4,7 @@ Perfil de Github en el que subo mis proyectos personales tanto de **Desarrollo W
 ### Proyectos IA y Big Data
 - [Recomendador de Películas](https://github.com/rub-laz/recomendador-peliculas)
 - [Diagnóstico de Enfermedades (texto e imágenes)](https://github.com/rub-laz/prediccion-enfermedades)
-- Predicción Metereológica
+- [Predicción Metereológica](https://github.com/rub-laz/prediccion-metereologica)
 - Optimización de Rutas de Transporte
 ---
 ### Proyectos de Desarrollo Web
