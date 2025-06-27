@@ -8,6 +8,6 @@ Perfil de Github en el que subo mis proyectos personales tanto de **Desarrollo W
 - [Optimización de Rutas de Transporte](https://github.com/rub-laz/rutas-transporte)
 ---
 ### Proyectos de Desarrollo Web
-- Red Social
+- [Red Social](https://github.com/rub-laz/red-social)
 - Liga Deportiva
 ---
