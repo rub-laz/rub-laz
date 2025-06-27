@@ -9,5 +9,5 @@ Perfil de Github en el que subo mis proyectos personales tanto de **Desarrollo W
 ---
 ### Proyectos de Desarrollo Web
 - [Red Social](https://github.com/rub-laz/red-social)
-- Liga Deportiva
+- [Liga Deportiva](https://github.com/rub-laz/liga-deportiva)
 ---
